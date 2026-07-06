@@ -26,6 +26,16 @@ header{
     justify-content: space-between;
     padding-top: 35px;
     padding-bottom: 35px;
+    background-color: #fff;
+}
+
+#header.wrapper h1.logo a {
+    color: black;
+}
+
+#header a {
+    font-weight:bold;
+    color: black;
 }
 
 #header .logo a {
